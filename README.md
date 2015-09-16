@@ -1,0 +1,2 @@
+# JSpromises
+javascript promises practice
